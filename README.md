@@ -2,6 +2,7 @@
 This is a simple Python desktop application that sorts files in a selected folder into subfolders according to their file types.
 
 ## Python Version
+Python 3.x
 
 ## Features
 - Select a folder to sort
