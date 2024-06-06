@@ -13,3 +13,11 @@ Python 3.x
    ```bash
    git clone https://github.com/your-username/FileSorterApp.git
    cd FileSorterApp
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+4. Run the application:
+   ```bash
+   python main.py
